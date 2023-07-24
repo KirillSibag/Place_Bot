@@ -158,3 +158,4 @@ def func(message):
 
                     # обновляем таймер
                     st = time.time()                  
+bot.polling(none_stop=True)
